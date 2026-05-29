@@ -3,8 +3,7 @@
 # 🦆 Proportional Duck
 
 ### Building. Learning. Showcasing.
-
-<img src="https://images.unsplash.com/photo-1526379095098-d400fd0bf935?q=80&w=1600&auto=format&fit=crop" width="100%" alt="Futuristic Digital Network Banner"/><br>
+<img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1600&auto=format&fit=crop" width="100%" alt="Coding Banner"/><br>
 
 </div>
 
