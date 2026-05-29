@@ -4,8 +4,7 @@
 
 ### Building. Learning. Showcasing.
 
-<img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1600&auto=format&fit=crop" width="100%" alt="Coding Banner"/>
-
+<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1600&auto=format&fit=crop" width="100%" alt="Developer Workspace Banner"/>
 <br>
 
 [![Organization](https://img.shields.io/badge/GitHub-Organization-181717?style=for-the-badge&logo=github)](https://github.com/Proportional-Duck)
@@ -117,10 +116,10 @@ More advanced projects and technologies will continue to be added over time.
 # 🔗 Explore
 
 ### Organization
-https://github.com/Proportional-Duck
+<a href="https://github.com/Proportional-Duck">Proportional Duck</a>
 
 ### Owner
-https://github.com/mubin25s
+<a href="https://github.com/mubin25s">mubin25s</a>
 
 <br>
 
