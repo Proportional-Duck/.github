@@ -6,10 +6,6 @@
 
 <img src="https://images.unsplash.com/photo-1526379095098-d400fd0bf935?q=80&w=1600&auto=format&fit=crop" width="100%" alt="Futuristic Digital Network Banner"/><br>
 
-[![Organization](https://img.shields.io/badge/GitHub-Organization-181717?style=for-the-badge&logo=github)](https://github.com/Proportional-Duck)
-[![Owner](https://img.shields.io/badge/Owner-mubin25s-blue?style=for-the-badge&logo=github)](https://github.com/mubin25s)
-[![Projects](https://img.shields.io/badge/Projects-Open%20Source-success?style=for-the-badge)]
-
 </div>
 
 ---
