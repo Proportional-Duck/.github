@@ -3,6 +3,7 @@
 # 🦆 Proportional Duck
 
 ### Building. Learning. Showcasing.
+<br>
 <img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1600&auto=format&fit=crop" width="100%" alt="Coding Banner"/><br>
 
 </div>
@@ -75,18 +76,18 @@ Every repository here is independently designed, developed, and maintained by th
 
 # 📂 Repositories
 
-- `Library_Management`
-- `DeShark`
-- `Demo_Star_Review`
-- `CGPA_Calculator_DIU`
-- `Deterministic_Finite_Automaton`
-- `Gadget_Zone`
-- `Physics`
-- `Task_Manager`
-- `PetShop_1`
-- `Event_Hive`
-- `PetShop_2`
-- `Ritual_Forge`
+- [`Library_Management`](https://github.com/Proportional-Duck/Library_Management)
+- [`DeShark`](https://github.com/Proportional-Duck/DeShark)
+- [`Demo_Star_Review`](https://github.com/Proportional-Duck/Demo_Star_Review)
+- [`CGPA_Calculator_DIU`](https://github.com/Proportional-Duck/CGPA_Calculator_DIU)
+- [`Deterministic_Finite_Automaton`](https://github.com/Proportional-Duck/Deterministic_Finite_Automaton)
+- [`Gadget_Zone`](https://github.com/Proportional-Duck/Gadget_Zone)
+- [`Physics`](https://github.com/Proportional-Duck/Physics)
+- [`Task_Manager`](https://github.com/Proportional-Duck/Task_Manager)
+- [`PetShop_1`](https://github.com/Proportional-Duck/PetShop_1)
+- [`Event_Hive`](https://github.com/Proportional-Duck/Event_Hive)
+- [`PetShop_2`](https://github.com/Proportional-Duck/PetShop_2)
+- [`Ritual_Forge`](https://github.com/Proportional-Duck/Ritual_Forge)
 
 ---
 
