@@ -4,7 +4,7 @@
 
 ### Building. Learning. Showcasing.
 
-<img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1600&auto=format&fit=crop" width="100%" alt="Creative Technology Banner"/><br>
+<img src="https://images.unsplash.com/photo-1526379095098-d400fd0bf935?q=80&w=1600&auto=format&fit=crop" width="100%" alt="Futuristic Digital Network Banner"/><br>
 
 [![Organization](https://img.shields.io/badge/GitHub-Organization-181717?style=for-the-badge&logo=github)](https://github.com/Proportional-Duck)
 [![Owner](https://img.shields.io/badge/Owner-mubin25s-blue?style=for-the-badge&logo=github)](https://github.com/mubin25s)
