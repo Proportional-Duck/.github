@@ -88,6 +88,7 @@ Every repository here is independently designed, developed, and maintained by th
 - [`Event_Hive`](https://github.com/Proportional-Duck/Event_Hive)
 - [`PetShop_2`](https://github.com/Proportional-Duck/PetShop_2)
 - [`Ritual_Forge`](https://github.com/Proportional-Duck/Ritual_Forge)
+- [`Showcase`](https://github.com/Proportional-Duck/Showcase)
 
 ---
 
