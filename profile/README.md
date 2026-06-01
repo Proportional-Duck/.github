@@ -78,6 +78,7 @@ Every repository here is independently designed, developed, and maintained by th
 # 📂 Repositories
 
 - [`Library_Management`](https://github.com/Proportional-Duck/Library_Management)
+- [`Game_Of_Thrones`](https://github.com/Proportional-Duck/Game_Of_Thrones)
 - [`DeShark`](https://github.com/Proportional-Duck/DeShark)
 - [`Demo_Star_Review`](https://github.com/Proportional-Duck/Demo_Star_Review)
 - [`CGPA_Calculator_DIU`](https://github.com/Proportional-Duck/CGPA_Calculator_DIU)
